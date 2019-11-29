@@ -56,9 +56,9 @@ public class EjerciciosBasicosJava {
        return false;    
     }
     
-    public boolean digitoIgual (int numero1, int numero2){
-     if ()
-    }
+    //public boolean digitoIgual (int numero1, int numero2){
+    // if ()
+    //}
     /**
      * @param args the command line arguments
      */
